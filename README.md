@@ -25,3 +25,11 @@
 
 # 4 展示
 
+![](/1.jgp)
+
+
+
+![](1.jgp)
+
+
+![](https://github.com/zhang555/my_quadcopter/blob/master/1.jpg)
