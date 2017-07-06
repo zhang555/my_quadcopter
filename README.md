@@ -23,13 +23,28 @@
 * USER:启动程序
 
 
+
 # 4 展示
 
-![](/1.jgp)
 
 
-
-![](1.jgp)
-
+绘制原理图和PCB
 
 ![](https://github.com/zhang555/my_quadcopter/blob/master/1.jpg)
+
+
+
+电路板
+![](https://github.com/zhang555/my_quadcopter/blob/master/2.jpg)
+
+贴元器件
+![](https://github.com/zhang555/my_quadcopter/blob/master/3.jpg)
+
+
+整理效果
+![](https://github.com/zhang555/my_quadcopter/blob/master/4.jpg)
+
+
+
+
+
