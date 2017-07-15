@@ -46,7 +46,7 @@
 ![](https://github.com/zhang555/my_quadcopter/blob/master/3.jpg)
 
 
-整理效果
+整体效果
 
 
 ![](https://github.com/zhang555/my_quadcopter/blob/master/4.jpg)
